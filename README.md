@@ -9,7 +9,7 @@ Gestionali di magazzino, software operativi e siti web su misura.
 
 ## Contatti
 
-- Email: gimmytonton@gmail.com
+- Email: tonelli.gianmarco27@gmail.com
 - Telefono / WhatsApp: +39 351 550 0289
 
 ## Come pubblicarlo
